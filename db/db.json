@@ -1,0 +1,48 @@
+{
+  "superheroes": [
+    {
+      "name": "Batman",
+      "color": "Blacky",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "superman",
+      "color": "white"
+    },
+    {
+      "id": "76d8",
+      "name": "Iron Man2"
+    }
+  ],
+  "users": [
+    {
+      "id": "a740",
+      "name": "Adik",
+      "email": "adik@gmail.com",
+      "password": "12345643565",
+      "age": "2333"
+    },
+    {
+      "id": "6204",
+      "name": "Kakak",
+      "email": "kakak@ymail.com",
+      "password": "Holamundo12345",
+      "age": "100"
+    },
+    {
+      "id": "9af0",
+      "name": "Temonia",
+      "email": "teman@gmail.com",
+      "password": "1232342345465365",
+      "age": "12"
+    },
+    {
+      "id": "dc40",
+      "name": "Alexa",
+      "email": "alexa@hotmail.com",
+      "password": "1234Password",
+      "age": "13"
+    }
+  ]
+}
