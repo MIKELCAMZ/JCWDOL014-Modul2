@@ -1,8 +1,7 @@
 import { Box } from "@chakra-ui/react";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./global/components/navbar";
-import Footer from "./global/components/footer";
-import BasicStatistics from "./global/components/statistik"
+
 
 
 
